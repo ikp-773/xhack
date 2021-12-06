@@ -4,7 +4,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:xhack/screens/authentication/landing_page.dart';
-import 'package:xhack/screens/participant_home/chat.dart';
+import 'package:xhack/screens/domain_expert_home/chat_list.dart';
 import 'package:xhack/services/auth.dart';
 
 List categories = [
@@ -98,7 +98,9 @@ class _DomainExpertCategoriesState extends State<DomainExpertCategories> {
                   itemBuilder: (context, index) {
                     return GestureDetector(
                       onTap: () {
-                        Get.to(ChatParticipant(catergory: categories[index]));
+                        Get.to(ChatList(
+                          categories: categories[index],
+                        ));
                       },
                       child: Container(
                         clipBehavior: Clip.antiAlias,
