@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "228065501724",
+    "project_id": "x-hack-c4383",
+    "storage_bucket": "x-hack-c4383.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228065501724:android:eb5d53f50cb3ca65cef5d9",
+        "android_client_info": {
+          "package_name": "com.kim.xhaack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228065501724-gi1dl9mku6bjggr1vavo0arl7iu2fss4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFB7VTzolMeHEyavMU6RtAwdBINbk_iDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228065501724-gi1dl9mku6bjggr1vavo0arl7iu2fss4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
