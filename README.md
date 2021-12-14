@@ -4,7 +4,7 @@
 
 X-Hack is an app with basic user interface where the participants can select the category, submit a query, and receive a response and the domain experts can respond to the queries by the participants.
 
-[![](https://img.shields.io/badge/APK-X-Hack-brightgreen?color=purple&style=for-the-badge)](https://drive.google.com/file/d/1uuVQJhj9yozz0bTCWsmph-CN6sayGJTo/view?usp=sharing)
+[![](https://img.shields.io/badge/APK-X%20Hack-brightgreen?color=purple&style=for-the-badge)](https://drive.google.com/file/d/1uuVQJhj9yozz0bTCWsmph-CN6sayGJTo/view?usp=sharing)
 
 ## Team members
 1. Aswathy Sujith
